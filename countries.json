@@ -1,1478 +1,1232 @@
 [
-  {
-    "name": "Afghanistan",
-    "dialCode": "+93",
-    "isoCode": "AF",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/af.svg"
-  },
-  {
-    "name": "Aland Islands",
-    "dialCode": "+358",
-    "isoCode": "AX",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ax.svg"
-  },
-  {
-    "name": "Albania",
-    "dialCode": "+355",
-    "isoCode": "AL",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/al.svg"
-  },
-  {
-    "name": "Algeria",
-    "dialCode": "+213",
-    "isoCode": "DZ",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/dz.svg"
-  },
-  {
-    "name": "American Samoa",
-    "dialCode": "+1684",
-    "isoCode": "AS",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/as.svg"
-  },
-  {
-    "name": "Andorra",
-    "dialCode": "+376",
-    "isoCode": "AD",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ad.svg"
-  },
-  {
-    "name": "Angola",
-    "dialCode": "+244",
-    "isoCode": "AO",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ao.svg"
-  },
-  {
-    "name": "Anguilla",
-    "dialCode": "+1264",
-    "isoCode": "AI",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ai.svg"
-  },
-  {
-    "name": "Antarctica",
-    "dialCode": "+672",
-    "isoCode": "AQ",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/aq.svg"
-  },
-  {
-    "name": "Antigua and Barbuda",
-    "dialCode": "+1268",
-    "isoCode": "AG",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ag.svg"
-  },
-  {
-    "name": "Argentina",
-    "dialCode": "+54",
-    "isoCode": "AR",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ar.svg"
-  },
-  {
-    "name": "Armenia",
-    "dialCode": "+374",
-    "isoCode": "AM",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/am.svg"
-  },
-  {
-    "name": "Aruba",
-    "dialCode": "+297",
-    "isoCode": "AW",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/aw.svg"
-  },
-  {
-    "name": "Ascension Island",
-    "dialCode": "+247",
-    "isoCode": "AC",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ac.svg"
-  },
-  {
-    "name": "Australia",
-    "dialCode": "+61",
-    "isoCode": "AU",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/au.svg"
-  },
-  {
-    "name": "Austria",
-    "dialCode": "+43",
-    "isoCode": "AT",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/at.svg"
-  },
-  {
-    "name": "Azerbaijan",
-    "dialCode": "+994",
-    "isoCode": "AZ",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/az.svg"
-  },
-  {
-    "name": "Bahamas",
-    "dialCode": "+1242",
-    "isoCode": "BS",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/bs.svg"
-  },
-  {
-    "name": "Bahrain",
-    "dialCode": "+973",
-    "isoCode": "BH",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/bh.svg"
-  },
-  {
-    "name": "Bangladesh",
-    "dialCode": "+880",
-    "isoCode": "BD",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/bd.svg"
-  },
-  {
-    "name": "Barbados",
-    "dialCode": "+1246",
-    "isoCode": "BB",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/bb.svg"
-  },
-  {
-    "name": "Belarus",
-    "dialCode": "+375",
-    "isoCode": "BY",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/by.svg"
-  },
-  {
-    "name": "Belgium",
-    "dialCode": "+32",
-    "isoCode": "BE",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/be.svg"
-  },
-  {
-    "name": "Belize",
-    "dialCode": "+501",
-    "isoCode": "BZ",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/bz.svg"
-  },
-  {
-    "name": "Benin",
-    "dialCode": "+229",
-    "isoCode": "BJ",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/bj.svg"
-  },
-  {
-    "name": "Bermuda",
-    "dialCode": "+1441",
-    "isoCode": "BM",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/bm.svg"
-  },
-  {
-    "name": "Bhutan",
-    "dialCode": "+975",
-    "isoCode": "BT",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/bt.svg"
-  },
-  {
-    "name": "Bolivia",
-    "dialCode": "+591",
-    "isoCode": "BO",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/bo.svg"
-  },
-  {
-    "name": "Bosnia and Herzegovina",
-    "dialCode": "+387",
-    "isoCode": "BA",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ba.svg"
-  },
-  {
-    "name": "Botswana",
-    "dialCode": "+267",
-    "isoCode": "BW",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/bw.svg"
-  },
-  {
-    "name": "Brazil",
-    "dialCode": "+55",
-    "isoCode": "BR",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/br.svg"
-  },
-  {
-    "name": "British Indian Ocean Territory",
-    "dialCode": "+246",
-    "isoCode": "IO",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/io.svg"
-  },
-  {
-    "name": "Brunei Darussalam",
-    "dialCode": "+673",
-    "isoCode": "BN",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/bn.svg"
-  },
-  {
-    "name": "Bulgaria",
-    "dialCode": "+359",
-    "isoCode": "BG",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/bg.svg"
-  },
-  {
-    "name": "Burkina Faso",
-    "dialCode": "+226",
-    "isoCode": "BF",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/bf.svg"
-  },
-  {
-    "name": "Burundi",
-    "dialCode": "+257",
-    "isoCode": "BI",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/bi.svg"
-  },
-  {
-    "name": "Cambodia",
-    "dialCode": "+855",
-    "isoCode": "KH",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/kh.svg"
-  },
-  {
-    "name": "Cameroon",
-    "dialCode": "+237",
-    "isoCode": "CM",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/cm.svg"
-  },
-  {
-    "name": "Canada",
-    "dialCode": "+1",
-    "isoCode": "CA",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ca.svg"
-  },
-  {
-    "name": "Cape Verde",
-    "dialCode": "+238",
-    "isoCode": "CV",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/cv.svg"
-  },
-  {
-    "name": "Cayman Islands",
-    "dialCode": "+1345",
-    "isoCode": "KY",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ky.svg"
-  },
-  {
-    "name": "Central African Republic",
-    "dialCode": "+236",
-    "isoCode": "CF",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/cf.svg"
-  },
-  {
-    "name": "Chad",
-    "dialCode": "+235",
-    "isoCode": "TD",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/td.svg"
-  },
-  {
-    "name": "Chile",
-    "dialCode": "+56",
-    "isoCode": "CL",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/cl.svg"
-  },
-  {
-    "name": "China",
-    "dialCode": "+86",
-    "isoCode": "CN",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/cn.svg"
-  },
-  {
-    "name": "Christmas Island",
-    "dialCode": "+61",
-    "isoCode": "CX",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/cx.svg"
-  },
-  {
-    "name": "Cocos (Keeling) Islands",
-    "dialCode": "+61",
-    "isoCode": "CC",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/cc.svg"
-  },
-  {
-    "name": "Colombia",
-    "dialCode": "+57",
-    "isoCode": "CO",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/co.svg"
-  },
-  {
-    "name": "Comoros",
-    "dialCode": "+269",
-    "isoCode": "KM",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/km.svg"
-  },
-  {
-    "name": "Congo",
-    "dialCode": "+242",
-    "isoCode": "CG",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/cg.svg"
-  },
-  {
-    "name": "Cook Islands",
-    "dialCode": "+682",
-    "isoCode": "CK",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ck.svg"
-  },
-  {
-    "name": "Costa Rica",
-    "dialCode": "+506",
-    "isoCode": "CR",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/cr.svg"
-  },
-  {
-    "name": "Croatia",
-    "dialCode": "+385",
-    "isoCode": "HR",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/hr.svg"
-  },
-  {
-    "name": "Cuba",
-    "dialCode": "+53",
-    "isoCode": "CU",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/cu.svg"
-  },
-  {
-    "name": "Cyprus",
-    "dialCode": "+357",
-    "isoCode": "CY",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/cy.svg"
-  },
-  {
-    "name": "Czech Republic",
-    "dialCode": "+420",
-    "isoCode": "CZ",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/cz.svg"
-  },
-  {
-    "name": "Democratic Republic of the Congo",
-    "dialCode": "+243",
-    "isoCode": "CD",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/cd.svg"
-  },
-  {
-    "name": "Denmark",
-    "dialCode": "+45",
-    "isoCode": "DK",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/dk.svg"
-  },
-  {
-    "name": "Djibouti",
-    "dialCode": "+253",
-    "isoCode": "DJ",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/dj.svg"
-  },
-  {
-    "name": "Dominica",
-    "dialCode": "+1767",
-    "isoCode": "DM",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/dm.svg"
-  },
-  {
-    "name": "Dominican Republic",
-    "dialCode": "+1849",
-    "isoCode": "DO",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/do.svg"
-  },
-  {
-    "name": "Ecuador",
-    "dialCode": "+593",
-    "isoCode": "EC",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ec.svg"
-  },
-  {
-    "name": "Egypt",
-    "dialCode": "+20",
-    "isoCode": "EG",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/eg.svg"
-  },
-  {
-    "name": "El Salvador",
-    "dialCode": "+503",
-    "isoCode": "SV",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/sv.svg"
-  },
-  {
-    "name": "Equatorial Guinea",
-    "dialCode": "+240",
-    "isoCode": "GQ",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/gq.svg"
-  },
-  {
-    "name": "Eritrea",
-    "dialCode": "+291",
-    "isoCode": "ER",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/er.svg"
-  },
-  {
-    "name": "Estonia",
-    "dialCode": "+372",
-    "isoCode": "EE",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ee.svg"
-  },
-  {
-    "name": "Eswatini",
-    "dialCode": "+268",
-    "isoCode": "SZ",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/sz.svg"
-  },
-  {
-    "name": "Ethiopia",
-    "dialCode": "+251",
-    "isoCode": "ET",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/et.svg"
-  },
-  {
-    "name": "Falkland Islands (Malvinas)",
-    "dialCode": "+500",
-    "isoCode": "FK",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/fk.svg"
-  },
-  {
-    "name": "Faroe Islands",
-    "dialCode": "+298",
-    "isoCode": "FO",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/fo.svg"
-  },
-  {
-    "name": "Fiji",
-    "dialCode": "+679",
-    "isoCode": "FJ",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/fj.svg"
-  },
-  {
-    "name": "Finland",
-    "dialCode": "+358",
-    "isoCode": "FI",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/fi.svg"
-  },
-  {
-    "name": "France",
-    "dialCode": "+33",
-    "isoCode": "FR",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/fr.svg"
-  },
-  {
-    "name": "French Guiana",
-    "dialCode": "+594",
-    "isoCode": "GF",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/gf.svg"
-  },
-  {
-    "name": "French Polynesia",
-    "dialCode": "+689",
-    "isoCode": "PF",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/pf.svg"
-  },
-  {
-    "name": "Gabon",
-    "dialCode": "+241",
-    "isoCode": "GA",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ga.svg"
-  },
-  {
-    "name": "Gambia",
-    "dialCode": "+220",
-    "isoCode": "GM",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/gm.svg"
-  },
-  {
-    "name": "Georgia",
-    "dialCode": "+995",
-    "isoCode": "GE",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ge.svg"
-  },
-  {
-    "name": "Germany",
-    "dialCode": "+49",
-    "isoCode": "DE",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/de.svg"
-  },
-  {
-    "name": "Ghana",
-    "dialCode": "+233",
-    "isoCode": "GH",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/gh.svg"
-  },
-  {
-    "name": "Gibraltar",
-    "dialCode": "+350",
-    "isoCode": "GI",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/gi.svg"
-  },
-  {
-    "name": "Greece",
-    "dialCode": "+30",
-    "isoCode": "GR",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/gr.svg"
-  },
-  {
-    "name": "Greenland",
-    "dialCode": "+299",
-    "isoCode": "GL",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/gl.svg"
-  },
-  {
-    "name": "Grenada",
-    "dialCode": "+1473",
-    "isoCode": "GD",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/gd.svg"
-  },
-  {
-    "name": "Guadeloupe",
-    "dialCode": "+590",
-    "isoCode": "GP",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/gp.svg"
-  },
-  {
-    "name": "Guam",
-    "dialCode": "+1671",
-    "isoCode": "GU",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/gu.svg"
-  },
-  {
-    "name": "Guatemala",
-    "dialCode": "+502",
-    "isoCode": "GT",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/gt.svg"
-  },
-  {
-    "name": "Guernsey",
-    "dialCode": "+44",
-    "isoCode": "GG",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/gg.svg"
-  },
-  {
-    "name": "Guinea",
-    "dialCode": "+224",
-    "isoCode": "GN",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/gn.svg"
-  },
-  {
-    "name": "Guinea-Bissau",
-    "dialCode": "+245",
-    "isoCode": "GW",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/gw.svg"
-  },
-  {
-    "name": "Guyana",
-    "dialCode": "+592",
-    "isoCode": "GY",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/gy.svg"
-  },
-  {
-    "name": "Haiti",
-    "dialCode": "+509",
-    "isoCode": "HT",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ht.svg"
-  },
-  {
-    "name": "Holy See (Vatican City State)",
-    "dialCode": "+379",
-    "isoCode": "VA",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/va.svg"
-  },
-  {
-    "name": "Honduras",
-    "dialCode": "+504",
-    "isoCode": "HN",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/hn.svg"
-  },
-  {
-    "name": "Hong Kong",
-    "dialCode": "+852",
-    "isoCode": "HK",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/hk.svg"
-  },
-  {
-    "name": "Hungary",
-    "dialCode": "+36",
-    "isoCode": "HU",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/hu.svg"
-  },
-  {
-    "name": "Iceland",
-    "dialCode": "+354",
-    "isoCode": "IS",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/is.svg"
-  },
-  {
-    "name": "India",
-    "dialCode": "+91",
-    "isoCode": "IN",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/in.svg"
-  },
-  {
-    "name": "Indonesia",
-    "dialCode": "+62",
-    "isoCode": "ID",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/id.svg"
-  },
-  {
-    "name": "Iran",
-    "dialCode": "+98",
-    "isoCode": "IR",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ir.svg"
-  },
-  {
-    "name": "Iraq",
-    "dialCode": "+964",
-    "isoCode": "IQ",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/iq.svg"
-  },
-  {
-    "name": "Ireland",
-    "dialCode": "+353",
-    "isoCode": "IE",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ie.svg"
-  },
-  {
-    "name": "Isle of Man",
-    "dialCode": "+44",
-    "isoCode": "IM",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/im.svg"
-  },
-  {
-    "name": "Israel",
-    "dialCode": "+972",
-    "isoCode": "IL",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/il.svg"
-  },
-  {
-    "name": "Italy",
-    "dialCode": "+39",
-    "isoCode": "IT",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/it.svg"
-  },
-  {
-    "name": "Ivory Coast / Cote d'Ivoire",
-    "dialCode": "+225",
-    "isoCode": "CI",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ci.svg"
-  },
-  {
-    "name": "Jamaica",
-    "dialCode": "+1876",
-    "isoCode": "JM",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/jm.svg"
-  },
-  {
-    "name": "Japan",
-    "dialCode": "+81",
-    "isoCode": "JP",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/jp.svg"
-  },
-  {
-    "name": "Jersey",
-    "dialCode": "+44",
-    "isoCode": "JE",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/je.svg"
-  },
-  {
-    "name": "Jordan",
-    "dialCode": "+962",
-    "isoCode": "JO",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/jo.svg"
-  },
-  {
-    "name": "Kazakhstan",
-    "dialCode": "+77",
-    "isoCode": "KZ",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/kz.svg"
-  },
-  {
-    "name": "Kenya",
-    "dialCode": "+254",
-    "isoCode": "KE",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ke.svg"
-  },
-  {
-    "name": "Kiribati",
-    "dialCode": "+686",
-    "isoCode": "KI",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ki.svg"
-  },
-  {
-    "name": "Korea, Democratic People's Republic of Korea",
-    "dialCode": "+850",
-    "isoCode": "KP",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/kp.svg"
-  },
-  {
-    "name": "Korea, Republic of South Korea",
-    "dialCode": "+82",
-    "isoCode": "KR",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/kr.svg"
-  },
-  {
-    "name": "Kosovo",
-    "dialCode": "+383",
-    "isoCode": "XK",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/xk.svg"
-  },
-  {
-    "name": "Kuwait",
-    "dialCode": "+965",
-    "isoCode": "KW",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/kw.svg"
-  },
-  {
-    "name": "Kyrgyzstan",
-    "dialCode": "+996",
-    "isoCode": "KG",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/kg.svg"
-  },
-  {
-    "name": "Laos",
-    "dialCode": "+856",
-    "isoCode": "LA",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/la.svg"
-  },
-  {
-    "name": "Latvia",
-    "dialCode": "+371",
-    "isoCode": "LV",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/lv.svg"
-  },
-  {
-    "name": "Lebanon",
-    "dialCode": "+961",
-    "isoCode": "LB",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/lb.svg"
-  },
-  {
-    "name": "Lesotho",
-    "dialCode": "+266",
-    "isoCode": "LS",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ls.svg"
-  },
-  {
-    "name": "Liberia",
-    "dialCode": "+231",
-    "isoCode": "LR",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/lr.svg"
-  },
-  {
-    "name": "Libya",
-    "dialCode": "+218",
-    "isoCode": "LY",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ly.svg"
-  },
-  {
-    "name": "Liechtenstein",
-    "dialCode": "+423",
-    "isoCode": "LI",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/li.svg"
-  },
-  {
-    "name": "Lithuania",
-    "dialCode": "+370",
-    "isoCode": "LT",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/lt.svg"
-  },
-  {
-    "name": "Luxembourg",
-    "dialCode": "+352",
-    "isoCode": "LU",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/lu.svg"
-  },
-  {
-    "name": "Macau",
-    "dialCode": "+853",
-    "isoCode": "MO",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/mo.svg"
-  },
-  {
-    "name": "Madagascar",
-    "dialCode": "+261",
-    "isoCode": "MG",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/mg.svg"
-  },
-  {
-    "name": "Malawi",
-    "dialCode": "+265",
-    "isoCode": "MW",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/mw.svg"
-  },
-  {
-    "name": "Malaysia",
-    "dialCode": "+60",
-    "isoCode": "MY",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/my.svg"
-  },
-  {
-    "name": "Maldives",
-    "dialCode": "+960",
-    "isoCode": "MV",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/mv.svg"
-  },
-  {
-    "name": "Mali",
-    "dialCode": "+223",
-    "isoCode": "ML",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ml.svg"
-  },
-  {
-    "name": "Malta",
-    "dialCode": "+356",
-    "isoCode": "MT",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/mt.svg"
-  },
-  {
-    "name": "Marshall Islands",
-    "dialCode": "+692",
-    "isoCode": "MH",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/mh.svg"
-  },
-  {
-    "name": "Martinique",
-    "dialCode": "+596",
-    "isoCode": "MQ",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/mq.svg"
-  },
-  {
-    "name": "Mauritania",
-    "dialCode": "+222",
-    "isoCode": "MR",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/mr.svg"
-  },
-  {
-    "name": "Mauritius",
-    "dialCode": "+230",
-    "isoCode": "MU",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/mu.svg"
-  },
-  {
-    "name": "Mayotte",
-    "dialCode": "+262",
-    "isoCode": "YT",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/yt.svg"
-  },
-  {
-    "name": "Mexico",
-    "dialCode": "+52",
-    "isoCode": "MX",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/mx.svg"
-  },
-  {
-    "name": "Micronesia, Federated States of Micronesia",
-    "dialCode": "+691",
-    "isoCode": "FM",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/fm.svg"
-  },
-  {
-    "name": "Moldova",
-    "dialCode": "+373",
-    "isoCode": "MD",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/md.svg"
-  },
-  {
-    "name": "Monaco",
-    "dialCode": "+377",
-    "isoCode": "MC",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/mc.svg"
-  },
-  {
-    "name": "Mongolia",
-    "dialCode": "+976",
-    "isoCode": "MN",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/mn.svg"
-  },
-  {
-    "name": "Montenegro",
-    "dialCode": "+382",
-    "isoCode": "ME",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/me.svg"
-  },
-  {
-    "name": "Montserrat",
-    "dialCode": "+1664",
-    "isoCode": "MS",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ms.svg"
-  },
-  {
-    "name": "Morocco",
-    "dialCode": "+212",
-    "isoCode": "MA",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ma.svg"
-  },
-  {
-    "name": "Mozambique",
-    "dialCode": "+258",
-    "isoCode": "MZ",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/mz.svg"
-  },
-  {
-    "name": "Myanmar",
-    "dialCode": "+95",
-    "isoCode": "MM",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/mm.svg"
-  },
-  {
-    "name": "Namibia",
-    "dialCode": "+264",
-    "isoCode": "NA",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/na.svg"
-  },
-  {
-    "name": "Nauru",
-    "dialCode": "+674",
-    "isoCode": "NR",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/nr.svg"
-  },
-  {
-    "name": "Nepal",
-    "dialCode": "+977",
-    "isoCode": "NP",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/np.svg"
-  },
-  {
-    "name": "Netherlands",
-    "dialCode": "+31",
-    "isoCode": "NL",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/nl.svg"
-  },
-  {
-    "name": "Netherlands Antilles",
-    "dialCode": "+599",
-    "isoCode": "AN",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/an.svg"
-  },
-  {
-    "name": "New Caledonia",
-    "dialCode": "+687",
-    "isoCode": "NC",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/nc.svg"
-  },
-  {
-    "name": "New Zealand",
-    "dialCode": "+64",
-    "isoCode": "NZ",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/nz.svg"
-  },
-  {
-    "name": "Nicaragua",
-    "dialCode": "+505",
-    "isoCode": "NI",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ni.svg"
-  },
-  {
-    "name": "Niger",
-    "dialCode": "+227",
-    "isoCode": "NE",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ne.svg"
-  },
-  {
-    "name": "Nigeria",
-    "dialCode": "+234",
-    "isoCode": "NG",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ng.svg"
-  },
-  {
-    "name": "Niue",
-    "dialCode": "+683",
-    "isoCode": "NU",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/nu.svg"
-  },
-  {
-    "name": "Norfolk Island",
-    "dialCode": "+672",
-    "isoCode": "NF",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/nf.svg"
-  },
-  {
-    "name": "North Macedonia",
-    "dialCode": "+389",
-    "isoCode": "MK",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/mk.svg"
-  },
-  {
-    "name": "Northern Mariana Islands",
-    "dialCode": "+1670",
-    "isoCode": "MP",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/mp.svg"
-  },
-  {
-    "name": "Norway",
-    "dialCode": "+47",
-    "isoCode": "NO",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/no.svg"
-  },
-  {
-    "name": "Oman",
-    "dialCode": "+968",
-    "isoCode": "OM",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/om.svg"
-  },
-  {
-    "name": "Pakistan",
-    "dialCode": "+92",
-    "isoCode": "PK",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/pk.svg"
-  },
-  {
-    "name": "Palau",
-    "dialCode": "+680",
-    "isoCode": "PW",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/pw.svg"
-  },
-  {
-    "name": "Palestine",
-    "dialCode": "+970",
-    "isoCode": "PS",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ps.svg"
-  },
-  {
-    "name": "Panama",
-    "dialCode": "+507",
-    "isoCode": "PA",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/pa.svg"
-  },
-  {
-    "name": "Papua New Guinea",
-    "dialCode": "+675",
-    "isoCode": "PG",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/pg.svg"
-  },
-  {
-    "name": "Paraguay",
-    "dialCode": "+595",
-    "isoCode": "PY",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/py.svg"
-  },
-  {
-    "name": "Peru",
-    "dialCode": "+51",
-    "isoCode": "PE",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/pe.svg"
-  },
-  {
-    "name": "Philippines",
-    "dialCode": "+63",
-    "isoCode": "PH",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ph.svg"
-  },
-  {
-    "name": "Pitcairn",
-    "dialCode": "+872",
-    "isoCode": "PN",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/pn.svg"
-  },
-  {
-    "name": "Poland",
-    "dialCode": "+48",
-    "isoCode": "PL",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/pl.svg"
-  },
-  {
-    "name": "Portugal",
-    "dialCode": "+351",
-    "isoCode": "PT",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/pt.svg"
-  },
-  {
-    "name": "Puerto Rico",
-    "dialCode": "+1939",
-    "isoCode": "PR",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/pr.svg"
-  },
-  {
-    "name": "Qatar",
-    "dialCode": "+974",
-    "isoCode": "QA",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/qa.svg"
-  },
-  {
-    "name": "Reunion",
-    "dialCode": "+262",
-    "isoCode": "RE",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/re.svg"
-  },
-  {
-    "name": "Romania",
-    "dialCode": "+40",
-    "isoCode": "RO",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ro.svg"
-  },
-  {
-    "name": "Russia",
-    "dialCode": "+7",
-    "isoCode": "RU",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ru.svg"
-  },
-  {
-    "name": "Rwanda",
-    "dialCode": "+250",
-    "isoCode": "RW",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/rw.svg"
-  },
-  {
-    "name": "Saint Barthelemy",
-    "dialCode": "+590",
-    "isoCode": "BL",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/bl.svg"
-  },
-  {
-    "name": "Saint Helena, Ascension and Tristan Da Cunha",
-    "dialCode": "+290",
-    "isoCode": "SH",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/sh.svg"
-  },
-  {
-    "name": "Saint Kitts and Nevis",
-    "dialCode": "+1869",
-    "isoCode": "KN",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/kn.svg"
-  },
-  {
-    "name": "Saint Lucia",
-    "dialCode": "+1758",
-    "isoCode": "LC",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/lc.svg"
-  },
-  {
-    "name": "Saint Martin",
-    "dialCode": "+590",
-    "isoCode": "MF",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/mf.svg"
-  },
-  {
-    "name": "Saint Pierre and Miquelon",
-    "dialCode": "+508",
-    "isoCode": "PM",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/pm.svg"
-  },
-  {
-    "name": "Saint Vincent and the Grenadines",
-    "dialCode": "+1784",
-    "isoCode": "VC",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/vc.svg"
-  },
-  {
-    "name": "Samoa",
-    "dialCode": "+685",
-    "isoCode": "WS",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ws.svg"
-  },
-  {
-    "name": "San Marino",
-    "dialCode": "+378",
-    "isoCode": "SM",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/sm.svg"
-  },
-  {
-    "name": "Sao Tome and Principe",
-    "dialCode": "+239",
-    "isoCode": "ST",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/st.svg"
-  },
-  {
-    "name": "Saudi Arabia",
-    "dialCode": "+966",
-    "isoCode": "SA",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/sa.svg"
-  },
-  {
-    "name": "Senegal",
-    "dialCode": "+221",
-    "isoCode": "SN",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/sn.svg"
-  },
-  {
-    "name": "Serbia",
-    "dialCode": "+381",
-    "isoCode": "RS",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/rs.svg"
-  },
-  {
-    "name": "Seychelles",
-    "dialCode": "+248",
-    "isoCode": "SC",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/sc.svg"
-  },
-  {
-    "name": "Sierra Leone",
-    "dialCode": "+232",
-    "isoCode": "SL",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/sl.svg"
-  },
-  {
-    "name": "Singapore",
-    "dialCode": "+65",
-    "isoCode": "SG",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/sg.svg"
-  },
-  {
-    "name": "Sint Maarten",
-    "dialCode": "+1721",
-    "isoCode": "SX",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/sx.svg"
-  },
-  {
-    "name": "Slovakia",
-    "dialCode": "+421",
-    "isoCode": "SK",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/sk.svg"
-  },
-  {
-    "name": "Slovenia",
-    "dialCode": "+386",
-    "isoCode": "SI",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/si.svg"
-  },
-  {
-    "name": "Solomon Islands",
-    "dialCode": "+677",
-    "isoCode": "SB",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/sb.svg"
-  },
-  {
-    "name": "Somalia",
-    "dialCode": "+252",
-    "isoCode": "SO",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/so.svg"
-  },
-  {
-    "name": "South Africa",
-    "dialCode": "+27",
-    "isoCode": "ZA",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/za.svg"
-  },
-  {
-    "name": "South Georgia and the South Sandwich Islands",
-    "dialCode": "+500",
-    "isoCode": "GS",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/gs.svg"
-  },
-  {
-    "name": "South Sudan",
-    "dialCode": "+211",
-    "isoCode": "SS",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ss.svg"
-  },
-  {
-    "name": "Spain",
-    "dialCode": "+34",
-    "isoCode": "ES",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/es.svg"
-  },
-  {
-    "name": "Sri Lanka",
-    "dialCode": "+94",
-    "isoCode": "LK",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/lk.svg"
-  },
-  {
-    "name": "Sudan",
-    "dialCode": "+249",
-    "isoCode": "SD",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/sd.svg"
-  },
-  {
-    "name": "Suriname",
-    "dialCode": "+597",
-    "isoCode": "SR",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/sr.svg"
-  },
-  {
-    "name": "Svalbard and Jan Mayen",
-    "dialCode": "+47",
-    "isoCode": "SJ",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/sj.svg"
-  },
-  {
-    "name": "Sweden",
-    "dialCode": "+46",
-    "isoCode": "SE",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/se.svg"
-  },
-  {
-    "name": "Switzerland",
-    "dialCode": "+41",
-    "isoCode": "CH",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ch.svg"
-  },
-  {
-    "name": "Syrian Arab Republic",
-    "dialCode": "+963",
-    "isoCode": "SY",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/sy.svg"
-  },
-  {
-    "name": "Taiwan",
-    "dialCode": "+886",
-    "isoCode": "TW",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/tw.svg"
-  },
-  {
-    "name": "Tajikistan",
-    "dialCode": "+992",
-    "isoCode": "TJ",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/tj.svg"
-  },
-  {
-    "name": "Tanzania, United Republic of Tanzania",
-    "dialCode": "+255",
-    "isoCode": "TZ",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/tz.svg"
-  },
-  {
-    "name": "Thailand",
-    "dialCode": "+66",
-    "isoCode": "TH",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/th.svg"
-  },
-  {
-    "name": "Timor-Leste",
-    "dialCode": "+670",
-    "isoCode": "TL",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/tl.svg"
-  },
-  {
-    "name": "Togo",
-    "dialCode": "+228",
-    "isoCode": "TG",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/tg.svg"
-  },
-  {
-    "name": "Tokelau",
-    "dialCode": "+690",
-    "isoCode": "TK",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/tk.svg"
-  },
-  {
-    "name": "Tonga",
-    "dialCode": "+676",
-    "isoCode": "TO",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/to.svg"
-  },
-  {
-    "name": "Trinidad and Tobago",
-    "dialCode": "+1868",
-    "isoCode": "TT",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/tt.svg"
-  },
-  {
-    "name": "Tunisia",
-    "dialCode": "+216",
-    "isoCode": "TN",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/tn.svg"
-  },
-  {
-    "name": "Turkey",
-    "dialCode": "+90",
-    "isoCode": "TR",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/tr.svg"
-  },
-  {
-    "name": "Turkmenistan",
-    "dialCode": "+993",
-    "isoCode": "TM",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/tm.svg"
-  },
-  {
-    "name": "Turks and Caicos Islands",
-    "dialCode": "+1649",
-    "isoCode": "TC",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/tc.svg"
-  },
-  {
-    "name": "Tuvalu",
-    "dialCode": "+688",
-    "isoCode": "TV",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/tv.svg"
-  },
-  {
-    "name": "Uganda",
-    "dialCode": "+256",
-    "isoCode": "UG",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ug.svg"
-  },
-  {
-    "name": "Ukraine",
-    "dialCode": "+380",
-    "isoCode": "UA",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ua.svg"
-  },
-  {
-    "name": "United Arab Emirates",
-    "dialCode": "+971",
-    "isoCode": "AE",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ae.svg"
-  },
-  {
-    "name": "United Kingdom",
-    "dialCode": "+44",
-    "isoCode": "GB",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/gb.svg"
-  },
-  {
-    "name": "United States",
-    "dialCode": "+1",
-    "isoCode": "US",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/us.svg"
-  },
-  {
-    "name": "United States Minor Outlying Islands",
-    "dialCode": "+246",
-    "isoCode": "UMI",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/umi.svg"
-  },
-  {
-    "name": "Uruguay",
-    "dialCode": "+598",
-    "isoCode": "UY",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/uy.svg"
-  },
-  {
-    "name": "Uzbekistan",
-    "dialCode": "+998",
-    "isoCode": "UZ",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/uz.svg"
-  },
-  {
-    "name": "Vanuatu",
-    "dialCode": "+678",
-    "isoCode": "VU",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/vu.svg"
-  },
-  {
-    "name": "Venezuela, Bolivarian Republic of Venezuela",
-    "dialCode": "+58",
-    "isoCode": "VE",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ve.svg"
-  },
-  {
-    "name": "Vietnam",
-    "dialCode": "+84",
-    "isoCode": "VN",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/vn.svg"
-  },
-  {
-    "name": "Virgin Islands, British",
-    "dialCode": "+1284",
-    "isoCode": "VG",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/vg.svg"
-  },
-  {
-    "name": "Virgin Islands, U.S.",
-    "dialCode": "+1340",
-    "isoCode": "VI",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/vi.svg"
-  },
-  {
-    "name": "Wallis and Futuna",
-    "dialCode": "+681",
-    "isoCode": "WF",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/wf.svg"
-  },
-  {
-    "name": "Yemen",
-    "dialCode": "+967",
-    "isoCode": "YE",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/ye.svg"
-  },
-  {
-    "name": "Zambia",
-    "dialCode": "+260",
-    "isoCode": "ZM",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/zm.svg"
-  },
-  {
-    "name": "Zimbabwe",
-    "dialCode": "+263",
-    "isoCode": "ZW",
-    "flag": "https://raw.githubusercontent.com/hashkodesystems/public/master/flags/zw.svg"
-  }
+    {
+        "name": "Afghanistan",
+        "dialCode": "+93",
+        "isoCode": "AF"
+    },
+    {
+        "name": "Aland Islands",
+        "dialCode": "+358",
+        "isoCode": "AX"
+    },
+    {
+        "name": "Albania",
+        "dialCode": "+355",
+        "isoCode": "AL"
+    },
+    {
+        "name": "Algeria",
+        "dialCode": "+213",
+        "isoCode": "DZ"
+    },
+    {
+        "name": "American Samoa",
+        "dialCode": "+1684",
+        "isoCode": "AS"
+    },
+    {
+        "name": "Andorra",
+        "dialCode": "+376",
+        "isoCode": "AD"
+    },
+    {
+        "name": "Angola",
+        "dialCode": "+244",
+        "isoCode": "AO"
+    },
+    {
+        "name": "Anguilla",
+        "dialCode": "+1264",
+        "isoCode": "AI"
+    },
+    {
+        "name": "Antarctica",
+        "dialCode": "+672",
+        "isoCode": "AQ"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "dialCode": "+1268",
+        "isoCode": "AG"
+    },
+    {
+        "name": "Argentina",
+        "dialCode": "+54",
+        "isoCode": "AR"
+    },
+    {
+        "name": "Armenia",
+        "dialCode": "+374",
+        "isoCode": "AM"
+    },
+    {
+        "name": "Aruba",
+        "dialCode": "+297",
+        "isoCode": "AW"
+    },
+    {
+        "name": "Ascension Island",
+        "dialCode": "+247",
+        "isoCode": "AC"
+    },
+    {
+        "name": "Australia",
+        "dialCode": "+61",
+        "isoCode": "AU"
+    },
+    {
+        "name": "Austria",
+        "dialCode": "+43",
+        "isoCode": "AT"
+    },
+    {
+        "name": "Azerbaijan",
+        "dialCode": "+994",
+        "isoCode": "AZ"
+    },
+    {
+        "name": "Bahamas",
+        "dialCode": "+1242",
+        "isoCode": "BS"
+    },
+    {
+        "name": "Bahrain",
+        "dialCode": "+973",
+        "isoCode": "BH"
+    },
+    {
+        "name": "Bangladesh",
+        "dialCode": "+880",
+        "isoCode": "BD"
+    },
+    {
+        "name": "Barbados",
+        "dialCode": "+1246",
+        "isoCode": "BB"
+    },
+    {
+        "name": "Belarus",
+        "dialCode": "+375",
+        "isoCode": "BY"
+    },
+    {
+        "name": "Belgium",
+        "dialCode": "+32",
+        "isoCode": "BE"
+    },
+    {
+        "name": "Belize",
+        "dialCode": "+501",
+        "isoCode": "BZ"
+    },
+    {
+        "name": "Benin",
+        "dialCode": "+229",
+        "isoCode": "BJ"
+    },
+    {
+        "name": "Bermuda",
+        "dialCode": "+1441",
+        "isoCode": "BM"
+    },
+    {
+        "name": "Bhutan",
+        "dialCode": "+975",
+        "isoCode": "BT"
+    },
+    {
+        "name": "Bolivia",
+        "dialCode": "+591",
+        "isoCode": "BO"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "dialCode": "+387",
+        "isoCode": "BA"
+    },
+    {
+        "name": "Botswana",
+        "dialCode": "+267",
+        "isoCode": "BW"
+    },
+    {
+        "name": "Brazil",
+        "dialCode": "+55",
+        "isoCode": "BR"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "dialCode": "+246",
+        "isoCode": "IO"
+    },
+    {
+        "name": "Brunei Darussalam",
+        "dialCode": "+673",
+        "isoCode": "BN"
+    },
+    {
+        "name": "Bulgaria",
+        "dialCode": "+359",
+        "isoCode": "BG"
+    },
+    {
+        "name": "Burkina Faso",
+        "dialCode": "+226",
+        "isoCode": "BF"
+    },
+    {
+        "name": "Burundi",
+        "dialCode": "+257",
+        "isoCode": "BI"
+    },
+    {
+        "name": "Cambodia",
+        "dialCode": "+855",
+        "isoCode": "KH"
+    },
+    {
+        "name": "Cameroon",
+        "dialCode": "+237",
+        "isoCode": "CM"
+    },
+    {
+        "name": "Canada",
+        "dialCode": "+1",
+        "isoCode": "CA"
+    },
+    {
+        "name": "Cape Verde",
+        "dialCode": "+238",
+        "isoCode": "CV"
+    },
+    {
+        "name": "Cayman Islands",
+        "dialCode": "+1345",
+        "isoCode": "KY"
+    },
+    {
+        "name": "Central African Republic",
+        "dialCode": "+236",
+        "isoCode": "CF"
+    },
+    {
+        "name": "Chad",
+        "dialCode": "+235",
+        "isoCode": "TD"
+    },
+    {
+        "name": "Chile",
+        "dialCode": "+56",
+        "isoCode": "CL"
+    },
+    {
+        "name": "China",
+        "dialCode": "+86",
+        "isoCode": "CN"
+    },
+    {
+        "name": "Christmas Island",
+        "dialCode": "+61",
+        "isoCode": "CX"
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "dialCode": "+61",
+        "isoCode": "CC"
+    },
+    {
+        "name": "Colombia",
+        "dialCode": "+57",
+        "isoCode": "CO"
+    },
+    {
+        "name": "Comoros",
+        "dialCode": "+269",
+        "isoCode": "KM"
+    },
+    {
+        "name": "Congo",
+        "dialCode": "+242",
+        "isoCode": "CG"
+    },
+    {
+        "name": "Cook Islands",
+        "dialCode": "+682",
+        "isoCode": "CK"
+    },
+    {
+        "name": "Costa Rica",
+        "dialCode": "+506",
+        "isoCode": "CR"
+    },
+    {
+        "name": "Croatia",
+        "dialCode": "+385",
+        "isoCode": "HR"
+    },
+    {
+        "name": "Cuba",
+        "dialCode": "+53",
+        "isoCode": "CU"
+    },
+    {
+        "name": "Cyprus",
+        "dialCode": "+357",
+        "isoCode": "CY"
+    },
+    {
+        "name": "Czech Republic",
+        "dialCode": "+420",
+        "isoCode": "CZ"
+    },
+    {
+        "name": "Democratic Republic of the Congo",
+        "dialCode": "+243",
+        "isoCode": "CD"
+    },
+    {
+        "name": "Denmark",
+        "dialCode": "+45",
+        "isoCode": "DK"
+    },
+    {
+        "name": "Djibouti",
+        "dialCode": "+253",
+        "isoCode": "DJ"
+    },
+    {
+        "name": "Dominica",
+        "dialCode": "+1767",
+        "isoCode": "DM"
+    },
+    {
+        "name": "Dominican Republic",
+        "dialCode": "+1849",
+        "isoCode": "DO"
+    },
+    {
+        "name": "Ecuador",
+        "dialCode": "+593",
+        "isoCode": "EC"
+    },
+    {
+        "name": "Egypt",
+        "dialCode": "+20",
+        "isoCode": "EG"
+    },
+    {
+        "name": "El Salvador",
+        "dialCode": "+503",
+        "isoCode": "SV"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "dialCode": "+240",
+        "isoCode": "GQ"
+    },
+    {
+        "name": "Eritrea",
+        "dialCode": "+291",
+        "isoCode": "ER"
+    },
+    {
+        "name": "Estonia",
+        "dialCode": "+372",
+        "isoCode": "EE"
+    },
+    {
+        "name": "Eswatini",
+        "dialCode": "+268",
+        "isoCode": "SZ"
+    },
+    {
+        "name": "Ethiopia",
+        "dialCode": "+251",
+        "isoCode": "ET"
+    },
+    {
+        "name": "Falkland Islands (Malvinas)",
+        "dialCode": "+500",
+        "isoCode": "FK"
+    },
+    {
+        "name": "Faroe Islands",
+        "dialCode": "+298",
+        "isoCode": "FO"
+    },
+    {
+        "name": "Fiji",
+        "dialCode": "+679",
+        "isoCode": "FJ"
+    },
+    {
+        "name": "Finland",
+        "dialCode": "+358",
+        "isoCode": "FI"
+    },
+    {
+        "name": "France",
+        "dialCode": "+33",
+        "isoCode": "FR"
+    },
+    {
+        "name": "French Guiana",
+        "dialCode": "+594",
+        "isoCode": "GF"
+    },
+    {
+        "name": "French Polynesia",
+        "dialCode": "+689",
+        "isoCode": "PF"
+    },
+    {
+        "name": "Gabon",
+        "dialCode": "+241",
+        "isoCode": "GA"
+    },
+    {
+        "name": "Gambia",
+        "dialCode": "+220",
+        "isoCode": "GM"
+    },
+    {
+        "name": "Georgia",
+        "dialCode": "+995",
+        "isoCode": "GE"
+    },
+    {
+        "name": "Germany",
+        "dialCode": "+49",
+        "isoCode": "DE"
+    },
+    {
+        "name": "Ghana",
+        "dialCode": "+233",
+        "isoCode": "GH"
+    },
+    {
+        "name": "Gibraltar",
+        "dialCode": "+350",
+        "isoCode": "GI"
+    },
+    {
+        "name": "Greece",
+        "dialCode": "+30",
+        "isoCode": "GR"
+    },
+    {
+        "name": "Greenland",
+        "dialCode": "+299",
+        "isoCode": "GL"
+    },
+    {
+        "name": "Grenada",
+        "dialCode": "+1473",
+        "isoCode": "GD"
+    },
+    {
+        "name": "Guadeloupe",
+        "dialCode": "+590",
+        "isoCode": "GP"
+    },
+    {
+        "name": "Guam",
+        "dialCode": "+1671",
+        "isoCode": "GU"
+    },
+    {
+        "name": "Guatemala",
+        "dialCode": "+502",
+        "isoCode": "GT"
+    },
+    {
+        "name": "Guernsey",
+        "dialCode": "+44",
+        "isoCode": "GG"
+    },
+    {
+        "name": "Guinea",
+        "dialCode": "+224",
+        "isoCode": "GN"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "dialCode": "+245",
+        "isoCode": "GW"
+    },
+    {
+        "name": "Guyana",
+        "dialCode": "+592",
+        "isoCode": "GY"
+    },
+    {
+        "name": "Haiti",
+        "dialCode": "+509",
+        "isoCode": "HT"
+    },
+    {
+        "name": "Holy See (Vatican City State)",
+        "dialCode": "+379",
+        "isoCode": "VA"
+    },
+    {
+        "name": "Honduras",
+        "dialCode": "+504",
+        "isoCode": "HN"
+    },
+    {
+        "name": "Hong Kong",
+        "dialCode": "+852",
+        "isoCode": "HK"
+    },
+    {
+        "name": "Hungary",
+        "dialCode": "+36",
+        "isoCode": "HU"
+    },
+    {
+        "name": "Iceland",
+        "dialCode": "+354",
+        "isoCode": "IS"
+    },
+    {
+        "name": "India",
+        "dialCode": "+91",
+        "isoCode": "IN"
+    },
+    {
+        "name": "Indonesia",
+        "dialCode": "+62",
+        "isoCode": "ID"
+    },
+    {
+        "name": "Iran",
+        "dialCode": "+98",
+        "isoCode": "IR"
+    },
+    {
+        "name": "Iraq",
+        "dialCode": "+964",
+        "isoCode": "IQ"
+    },
+    {
+        "name": "Ireland",
+        "dialCode": "+353",
+        "isoCode": "IE"
+    },
+    {
+        "name": "Isle of Man",
+        "dialCode": "+44",
+        "isoCode": "IM"
+    },
+    {
+        "name": "Israel",
+        "dialCode": "+972",
+        "isoCode": "IL"
+    },
+    {
+        "name": "Italy",
+        "dialCode": "+39",
+        "isoCode": "IT"
+    },
+    {
+        "name": "Ivory Coast / Cote d'Ivoire",
+        "dialCode": "+225",
+        "isoCode": "CI"
+    },
+    {
+        "name": "Jamaica",
+        "dialCode": "+1876",
+        "isoCode": "JM"
+    },
+    {
+        "name": "Japan",
+        "dialCode": "+81",
+        "isoCode": "JP"
+    },
+    {
+        "name": "Jersey",
+        "dialCode": "+44",
+        "isoCode": "JE"
+    },
+    {
+        "name": "Jordan",
+        "dialCode": "+962",
+        "isoCode": "JO"
+    },
+    {
+        "name": "Kazakhstan",
+        "dialCode": "+77",
+        "isoCode": "KZ"
+    },
+    {
+        "name": "Kenya",
+        "dialCode": "+254",
+        "isoCode": "KE"
+    },
+    {
+        "name": "Kiribati",
+        "dialCode": "+686",
+        "isoCode": "KI"
+    },
+    {
+        "name": "Korea, Democratic People's Republic of Korea",
+        "dialCode": "+850",
+        "isoCode": "KP"
+    },
+    {
+        "name": "Korea, Republic of South Korea",
+        "dialCode": "+82",
+        "isoCode": "KR"
+    },
+    {
+        "name": "Kosovo",
+        "dialCode": "+383",
+        "isoCode": "XK"
+    },
+    {
+        "name": "Kuwait",
+        "dialCode": "+965",
+        "isoCode": "KW"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "dialCode": "+996",
+        "isoCode": "KG"
+    },
+    {
+        "name": "Laos",
+        "dialCode": "+856",
+        "isoCode": "LA"
+    },
+    {
+        "name": "Latvia",
+        "dialCode": "+371",
+        "isoCode": "LV"
+    },
+    {
+        "name": "Lebanon",
+        "dialCode": "+961",
+        "isoCode": "LB"
+    },
+    {
+        "name": "Lesotho",
+        "dialCode": "+266",
+        "isoCode": "LS"
+    },
+    {
+        "name": "Liberia",
+        "dialCode": "+231",
+        "isoCode": "LR"
+    },
+    {
+        "name": "Libya",
+        "dialCode": "+218",
+        "isoCode": "LY"
+    },
+    {
+        "name": "Liechtenstein",
+        "dialCode": "+423",
+        "isoCode": "LI"
+    },
+    {
+        "name": "Lithuania",
+        "dialCode": "+370",
+        "isoCode": "LT"
+    },
+    {
+        "name": "Luxembourg",
+        "dialCode": "+352",
+        "isoCode": "LU"
+    },
+    {
+        "name": "Macau",
+        "dialCode": "+853",
+        "isoCode": "MO"
+    },
+    {
+        "name": "Madagascar",
+        "dialCode": "+261",
+        "isoCode": "MG"
+    },
+    {
+        "name": "Malawi",
+        "dialCode": "+265",
+        "isoCode": "MW"
+    },
+    {
+        "name": "Malaysia",
+        "dialCode": "+60",
+        "isoCode": "MY"
+    },
+    {
+        "name": "Maldives",
+        "dialCode": "+960",
+        "isoCode": "MV"
+    },
+    {
+        "name": "Mali",
+        "dialCode": "+223",
+        "isoCode": "ML"
+    },
+    {
+        "name": "Malta",
+        "dialCode": "+356",
+        "isoCode": "MT"
+    },
+    {
+        "name": "Marshall Islands",
+        "dialCode": "+692",
+        "isoCode": "MH"
+    },
+    {
+        "name": "Martinique",
+        "dialCode": "+596",
+        "isoCode": "MQ"
+    },
+    {
+        "name": "Mauritania",
+        "dialCode": "+222",
+        "isoCode": "MR"
+    },
+    {
+        "name": "Mauritius",
+        "dialCode": "+230",
+        "isoCode": "MU"
+    },
+    {
+        "name": "Mayotte",
+        "dialCode": "+262",
+        "isoCode": "YT"
+    },
+    {
+        "name": "Mexico",
+        "dialCode": "+52",
+        "isoCode": "MX"
+    },
+    {
+        "name": "Micronesia, Federated States of Micronesia",
+        "dialCode": "+691",
+        "isoCode": "FM"
+    },
+    {
+        "name": "Moldova",
+        "dialCode": "+373",
+        "isoCode": "MD"
+    },
+    {
+        "name": "Monaco",
+        "dialCode": "+377",
+        "isoCode": "MC"
+    },
+    {
+        "name": "Mongolia",
+        "dialCode": "+976",
+        "isoCode": "MN"
+    },
+    {
+        "name": "Montenegro",
+        "dialCode": "+382",
+        "isoCode": "ME"
+    },
+    {
+        "name": "Montserrat",
+        "dialCode": "+1664",
+        "isoCode": "MS"
+    },
+    {
+        "name": "Morocco",
+        "dialCode": "+212",
+        "isoCode": "MA"
+    },
+    {
+        "name": "Mozambique",
+        "dialCode": "+258",
+        "isoCode": "MZ"
+    },
+    {
+        "name": "Myanmar",
+        "dialCode": "+95",
+        "isoCode": "MM"
+    },
+    {
+        "name": "Namibia",
+        "dialCode": "+264",
+        "isoCode": "NA"
+    },
+    {
+        "name": "Nauru",
+        "dialCode": "+674",
+        "isoCode": "NR"
+    },
+    {
+        "name": "Nepal",
+        "dialCode": "+977",
+        "isoCode": "NP"
+    },
+    {
+        "name": "Netherlands",
+        "dialCode": "+31",
+        "isoCode": "NL"
+    },
+    {
+        "name": "Netherlands Antilles",
+        "dialCode": "+599",
+        "isoCode": "AN"
+    },
+    {
+        "name": "New Caledonia",
+        "dialCode": "+687",
+        "isoCode": "NC"
+    },
+    {
+        "name": "New Zealand",
+        "dialCode": "+64",
+        "isoCode": "NZ"
+    },
+    {
+        "name": "Nicaragua",
+        "dialCode": "+505",
+        "isoCode": "NI"
+    },
+    {
+        "name": "Niger",
+        "dialCode": "+227",
+        "isoCode": "NE"
+    },
+    {
+        "name": "Nigeria",
+        "dialCode": "+234",
+        "isoCode": "NG"
+    },
+    {
+        "name": "Niue",
+        "dialCode": "+683",
+        "isoCode": "NU"
+    },
+    {
+        "name": "Norfolk Island",
+        "dialCode": "+672",
+        "isoCode": "NF"
+    },
+    {
+        "name": "North Macedonia",
+        "dialCode": "+389",
+        "isoCode": "MK"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "dialCode": "+1670",
+        "isoCode": "MP"
+    },
+    {
+        "name": "Norway",
+        "dialCode": "+47",
+        "isoCode": "NO"
+    },
+    {
+        "name": "Oman",
+        "dialCode": "+968",
+        "isoCode": "OM"
+    },
+    {
+        "name": "Pakistan",
+        "dialCode": "+92",
+        "isoCode": "PK"
+    },
+    {
+        "name": "Palau",
+        "dialCode": "+680",
+        "isoCode": "PW"
+    },
+    {
+        "name": "Palestine",
+        "dialCode": "+970",
+        "isoCode": "PS"
+    },
+    {
+        "name": "Panama",
+        "dialCode": "+507",
+        "isoCode": "PA"
+    },
+    {
+        "name": "Papua New Guinea",
+        "dialCode": "+675",
+        "isoCode": "PG"
+    },
+    {
+        "name": "Paraguay",
+        "dialCode": "+595",
+        "isoCode": "PY"
+    },
+    {
+        "name": "Peru",
+        "dialCode": "+51",
+        "isoCode": "PE"
+    },
+    {
+        "name": "Philippines",
+        "dialCode": "+63",
+        "isoCode": "PH"
+    },
+    {
+        "name": "Pitcairn",
+        "dialCode": "+872",
+        "isoCode": "PN"
+    },
+    {
+        "name": "Poland",
+        "dialCode": "+48",
+        "isoCode": "PL"
+    },
+    {
+        "name": "Portugal",
+        "dialCode": "+351",
+        "isoCode": "PT"
+    },
+    {
+        "name": "Puerto Rico",
+        "dialCode": "+1939",
+        "isoCode": "PR"
+    },
+    {
+        "name": "Qatar",
+        "dialCode": "+974",
+        "isoCode": "QA"
+    },
+    {
+        "name": "Reunion",
+        "dialCode": "+262",
+        "isoCode": "RE"
+    },
+    {
+        "name": "Romania",
+        "dialCode": "+40",
+        "isoCode": "RO"
+    },
+    {
+        "name": "Russia",
+        "dialCode": "+7",
+        "isoCode": "RU"
+    },
+    {
+        "name": "Rwanda",
+        "dialCode": "+250",
+        "isoCode": "RW"
+    },
+    {
+        "name": "Saint Barthelemy",
+        "dialCode": "+590",
+        "isoCode": "BL"
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan Da Cunha",
+        "dialCode": "+290",
+        "isoCode": "SH"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "dialCode": "+1869",
+        "isoCode": "KN"
+    },
+    {
+        "name": "Saint Lucia",
+        "dialCode": "+1758",
+        "isoCode": "LC"
+    },
+    {
+        "name": "Saint Martin",
+        "dialCode": "+590",
+        "isoCode": "MF"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "dialCode": "+508",
+        "isoCode": "PM"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "dialCode": "+1784",
+        "isoCode": "VC"
+    },
+    {
+        "name": "Samoa",
+        "dialCode": "+685",
+        "isoCode": "WS"
+    },
+    {
+        "name": "San Marino",
+        "dialCode": "+378",
+        "isoCode": "SM"
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "dialCode": "+239",
+        "isoCode": "ST"
+    },
+    {
+        "name": "Saudi Arabia",
+        "dialCode": "+966",
+        "isoCode": "SA"
+    },
+    {
+        "name": "Senegal",
+        "dialCode": "+221",
+        "isoCode": "SN"
+    },
+    {
+        "name": "Serbia",
+        "dialCode": "+381",
+        "isoCode": "RS"
+    },
+    {
+        "name": "Seychelles",
+        "dialCode": "+248",
+        "isoCode": "SC"
+    },
+    {
+        "name": "Sierra Leone",
+        "dialCode": "+232",
+        "isoCode": "SL"
+    },
+    {
+        "name": "Singapore",
+        "dialCode": "+65",
+        "isoCode": "SG"
+    },
+    {
+        "name": "Sint Maarten",
+        "dialCode": "+1721",
+        "isoCode": "SX"
+    },
+    {
+        "name": "Slovakia",
+        "dialCode": "+421",
+        "isoCode": "SK"
+    },
+    {
+        "name": "Slovenia",
+        "dialCode": "+386",
+        "isoCode": "SI"
+    },
+    {
+        "name": "Solomon Islands",
+        "dialCode": "+677",
+        "isoCode": "SB"
+    },
+    {
+        "name": "Somalia",
+        "dialCode": "+252",
+        "isoCode": "SO"
+    },
+    {
+        "name": "South Africa",
+        "dialCode": "+27",
+        "isoCode": "ZA"
+    },
+    {
+        "name": "South Georgia and the South Sandwich Islands",
+        "dialCode": "+500",
+        "isoCode": "GS"
+    },
+    {
+        "name": "South Sudan",
+        "dialCode": "+211",
+        "isoCode": "SS"
+    },
+    {
+        "name": "Spain",
+        "dialCode": "+34",
+        "isoCode": "ES"
+    },
+    {
+        "name": "Sri Lanka",
+        "dialCode": "+94",
+        "isoCode": "LK"
+    },
+    {
+        "name": "Sudan",
+        "dialCode": "+249",
+        "isoCode": "SD"
+    },
+    {
+        "name": "Suriname",
+        "dialCode": "+597",
+        "isoCode": "SR"
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "dialCode": "+47",
+        "isoCode": "SJ"
+    },
+    {
+        "name": "Sweden",
+        "dialCode": "+46",
+        "isoCode": "SE"
+    },
+    {
+        "name": "Switzerland",
+        "dialCode": "+41",
+        "isoCode": "CH"
+    },
+    {
+        "name": "Syrian Arab Republic",
+        "dialCode": "+963",
+        "isoCode": "SY"
+    },
+    {
+        "name": "Taiwan",
+        "dialCode": "+886",
+        "isoCode": "TW"
+    },
+    {
+        "name": "Tajikistan",
+        "dialCode": "+992",
+        "isoCode": "TJ"
+    },
+    {
+        "name": "Tanzania, United Republic of Tanzania",
+        "dialCode": "+255",
+        "isoCode": "TZ"
+    },
+    {
+        "name": "Thailand",
+        "dialCode": "+66",
+        "isoCode": "TH"
+    },
+    {
+        "name": "Timor-Leste",
+        "dialCode": "+670",
+        "isoCode": "TL"
+    },
+    {
+        "name": "Togo",
+        "dialCode": "+228",
+        "isoCode": "TG"
+    },
+    {
+        "name": "Tokelau",
+        "dialCode": "+690",
+        "isoCode": "TK"
+    },
+    {
+        "name": "Tonga",
+        "dialCode": "+676",
+        "isoCode": "TO"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "dialCode": "+1868",
+        "isoCode": "TT"
+    },
+    {
+        "name": "Tunisia",
+        "dialCode": "+216",
+        "isoCode": "TN"
+    },
+    {
+        "name": "Turkey",
+        "dialCode": "+90",
+        "isoCode": "TR"
+    },
+    {
+        "name": "Turkmenistan",
+        "dialCode": "+993",
+        "isoCode": "TM"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "dialCode": "+1649",
+        "isoCode": "TC"
+    },
+    {
+        "name": "Tuvalu",
+        "dialCode": "+688",
+        "isoCode": "TV"
+    },
+    {
+        "name": "Uganda",
+        "dialCode": "+256",
+        "isoCode": "UG"
+    },
+    {
+        "name": "Ukraine",
+        "dialCode": "+380",
+        "isoCode": "UA"
+    },
+    {
+        "name": "United Arab Emirates",
+        "dialCode": "+971",
+        "isoCode": "AE"
+    },
+    {
+        "name": "United Kingdom",
+        "dialCode": "+44",
+        "isoCode": "GB"
+    },
+    {
+        "name": "United States",
+        "dialCode": "+1",
+        "isoCode": "US"
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "dialCode": "+246",
+        "isoCode": "UMI"
+    },
+    {
+        "name": "Uruguay",
+        "dialCode": "+598",
+        "isoCode": "UY"
+    },
+    {
+        "name": "Uzbekistan",
+        "dialCode": "+998",
+        "isoCode": "UZ"
+    },
+    {
+        "name": "Vanuatu",
+        "dialCode": "+678",
+        "isoCode": "VU"
+    },
+    {
+        "name": "Venezuela, Bolivarian Republic of Venezuela",
+        "dialCode": "+58",
+        "isoCode": "VE"
+    },
+    {
+        "name": "Vietnam",
+        "dialCode": "+84",
+        "isoCode": "VN"
+    },
+    {
+        "name": "Virgin Islands, British",
+        "dialCode": "+1284",
+        "isoCode": "VG"
+    },
+    {
+        "name": "Virgin Islands, U.S.",
+        "dialCode": "+1340",
+        "isoCode": "VI"
+    },
+    {
+        "name": "Wallis and Futuna",
+        "dialCode": "+681",
+        "isoCode": "WF"
+    },
+    {
+        "name": "Yemen",
+        "dialCode": "+967",
+        "isoCode": "YE"
+    },
+    {
+        "name": "Zambia",
+        "dialCode": "+260",
+        "isoCode": "ZM"
+    },
+    {
+        "name": "Zimbabwe",
+        "dialCode": "+263",
+        "isoCode": "ZW"
+    }
 ]
